@@ -1,6 +1,3 @@
-# WarmUpView.ai
-Your warm-up before the real Interview.
-
 WarmUpView.ai/
 │
 ├── app/
@@ -21,4 +18,3 @@ WarmUpView.ai/
 ├── templates/
 │   ├── index.html          # Homepage template
 │   └── ...                 # Other HTML templates
-
