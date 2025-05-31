@@ -4,19 +4,21 @@ Your warm-up before the real Interview.
 WarmUpView.ai/
 │
 ├── app/
-│   ├── __init__.py         # ملف التهيئة
-│   ├── cv_parser.py        # تحليل السيرة الذاتية
-│   ├── question_gen.py     # توليد الأسئلة
-│   ├── face_analyzer.py    # تحليل تعابير الوجه
-│   └── evaluator.py        # تقييم الإجابات
+│   ├── __init__.py         # Initialization file
+│   ├── cv_parser.py        # Parses and analyzes CV/resumes
+│   ├── question_gen.py     # Generates interview questions dynamically
+│   ├── face_analyzer.py    # Analyzes facial expressions during interviews
+│   └── evaluator.py        # Evaluates candidate responses
 │
 ├── static/
 │   ├── css/
-│   │   └── style.css       # أنماط CSS
+│   │   └── style.css       # CSS stylesheets
 │   └── js/
-│       ├── index.js        # جافا سكريبت للصفحة الرئيسية
-│       ├── interview.js    # جافا سكريبت لصفحة المقابلة
-│       └── results.js      # جافا سكريبت لصفحة النتائج
+│       ├── index.js        # JavaScript for the homepage
+│       ├── interview.js    # JavaScript for the interview page
+│       └── results.js      # JavaScript for the results page
 │
 ├── templates/
-│   ├── index.html
+│   ├── index.html          # Homepage template
+│   └── ...                 # Other HTML templates
+
