@@ -1,3 +1,4 @@
+```
 WarmUpView.ai/
 │
 ├── app/
@@ -18,3 +19,5 @@ WarmUpView.ai/
 ├── templates/
 │   ├── index.html          # Homepage template
 │   └── ...                 # Other HTML templates
+
+```
